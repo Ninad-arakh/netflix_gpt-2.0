@@ -1,4 +1,9 @@
 # Netflix GPT
+
+![ReactFlix](https://github.com/user-attachments/assets/fad98c0f-4492-43dc-8b8f-503fc1758932)
+
+
+# What i did in this project
   - create react app
   - tailwind css configuration
   - Routing of app

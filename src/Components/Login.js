@@ -85,7 +85,7 @@ const Login = () => {
       <Header />
       <div className="absolute m-0">
         <img
-          src="https://gtwallpaper.org/sites/default/files/wallpaper/246844/netflix-background-246844-2224740-3441109.png"
+          src="https://raw.githubusercontent.com/Ninad-arakh/React-Pr/master/ReactFlix_background.jpg"
           className="w-screen h-screen object-cover"
         />
       </div>
